@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Enumerable
+# Enumerable(ruby)
 
 > Description the project.
 > Enumerable Enumerable provides methods that are useful to a collection class

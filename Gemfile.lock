@@ -1,7 +1,7 @@
 GEM
   specs:
     ast (2.4.2)
-    json (2.6.2)
+    json (2.6.1)
     parallel (1.22.1)
     parser (3.1.2.1)
       ast (~> 2.4.1)
@@ -24,10 +24,10 @@ GEM
     unicode-display_width (2.3.0)
 
 PLATFORMS
-  ruby
+  x64-mingw-ucrt
 
 DEPENDENCIES
   rubocop (>= 1.0, < 2.0)
 
 BUNDLED WITH
-   1.17.2
+   2.3.7
