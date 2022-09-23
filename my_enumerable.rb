@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # contains methods for my_list class
 module MyEnumerable
   def all?
