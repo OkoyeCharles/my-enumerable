@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Enumerable
 
 > Description the project.
-
+> Enumerable Enumerable provides methods that are useful to a collection class
 
 ## Built With
 
@@ -15,12 +15,10 @@
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -36,21 +34,19 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Okoye Charles**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@OkoyeCharles](https://github.com/OkoyeCharles)
+- Twitter: [@OkoyeCharles\_](https://twitter.com/OkoyeCharles_)
+- LinkedIn: [Okoye Charles](https://www.linkedin.com/in/charles-k-okoye/)
 
-👤 **Author2**
+👤 **mavhungu rotshidzwa**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@rotshidzw](https://github.com/rotshidzw)
+- Twitter: [@rotshidzwamavh1](https://twitter.com/rotshidzwamavh1)
+- LinkedIn: [rotshidzwa mavhungu](https://www.linkedin.com/in/rochidzwa-chester-8062b6211/)
 
 ## 🤝 Contributing
 
